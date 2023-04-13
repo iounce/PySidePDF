@@ -1,0 +1,10 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#536dfe</color>
+  <color name="primaryLightColor">#bdbdbd</color>
+  <color name="secondaryColor">#eeeeee</color>              <!--combox-->
+  <color name="secondaryLightColor">#f5f5f5</color>         <!--hint-->  
+  <color name="secondaryDarkColor">#f5f5f5</color>          <!--background-->  
+  <color name="primaryTextColor">#212121</color>
+  <color name="secondaryTextColor">#424242</color>
+</resources>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN" sourcelanguage="en_US">
+<context>
+    <name>MainWindow</name>
+    <message>
+        <source>title_this_app</source>
+        <translation>PySidePDF</translation>
+    </message>
+	
+	<message>
+        <source>title_output_folder</source>
+        <translation>输出目录：</translation>
+    </message>
+	<message>
+        <source>title_pdf_path</source>
+        <translation>和PDF同目录    </translation>
+    </message>
+	<message>
+        <source>title_word_path</source>
+        <translation>和Word同目录   </translation>
+    </message>
+	<message>
+        <source>title_excel_path</source>
+        <translation>和Excel同目录  </translation>
+    </message>
+	<message>
+        <source>title_ppt_path</source>
+        <translation>和PPT同目录    </translation>
+    </message>
+    <message>
+        <source>title_user_path</source>
+        <translation>自定义目录     </translation>
+    </message>
+	
+    <message>
+        <source>title_clear</source>
+        <translation>清空</translation>
+    </message>
+    <message>
+        <source>title_convert</source>
+        <translation>转换</translation>
+    </message>
+	
+	<message>
+        <source>menu_pdf2word</source>
+        <translation>PDF转Word</translation>
+    </message>
+	<message>
+        <source>menu_word2pdf</source>
+        <translation>Word转PDF</translation>
+    </message>
+	<message>
+        <source>menu_excel2pdf</source>
+        <translation>Excel转PDF</translation>
+    </message>
+	<message>
+        <source>menu_ppt2pdf</source>
+        <translation>PPT转PDF</translation>
+    </message>
+	<message>
+        <source>menu_pdf_split</source>
+        <translation>PPT拆分</translation>
+    </message>
+	<message>
+        <source>menu_pdf_merge</source>
+        <translation>PPT合并</translation>
+    </message>
+	
+	<message>
+        <source>menu_theme</source>
+        <translation>主题</translation>
+    </message>
+	<message>
+        <source>menu_language</source>
+        <translation>语言</translation>
+    </message>
+	<message>
+        <source>menu_chinese</source>
+        <translation>中文</translation>
+    </message>
+	<message>
+        <source>menu_english</source>
+        <translation>English</translation>
+    </message>
+	<message>
+        <source>menu_feedback</source>
+        <translation>反馈</translation>
+    </message>
+	<message>
+        <source>menu_about</source>
+        <translation>关于</translation>
+    </message>
+	
+	<message>
+        <source>col_check</source>
+        <translation>全选</translation>
+    </message>
+	<message>
+        <source>col_name</source>
+        <translation>文件名</translation>
+    </message>
+	<message>
+        <source>col_count</source>
+        <translation>总页数</translation>
+    </message>
+	<message>
+        <source>col_range</source>
+        <translation>转换范围</translation>
+    </message>
+	<message>
+        <source>col_status</source>
+        <translation>转换状态</translation>
+    </message>
+	<message>
+        <source>col_action</source>
+        <translation>操作</translation>
+    </message>
+	
+	<message>
+        <source>title_open_pdf</source>
+        <translation>打开PDF文件</translation>
+    </message>
+	<message>
+        <source>title_open_word</source>
+        <translation>打开Word文件</translation>
+    </message>
+	<message>
+        <source>title_open_excel</source>
+        <translation>打开Excel文件</translation>
+    </message>
+	<message>
+        <source>title_open_ppt</source>
+        <translation>打开PPT文件</translation>
+    </message>
+	<message>
+        <source>title_open_folder</source>
+        <translation>选择文件夹</translation>
+    </message>
+	
+	<message>
+        <source>tip_add_pdf</source>
+        <translation>点击添加PDF文件</translation>
+    </message>
+	<message>
+        <source>tip_add_word</source>
+        <translation>点击添加Word文件</translation>
+    </message>
+	<message>
+        <source>tip_add_excel</source>
+        <translation>点击添加Excel文件</translation>
+    </message>
+	<message>
+        <source>tip_add_ppt</source>
+        <translation>点击添加PPT文件</translation>
+    </message>
+	<message>
+        <source>tip_open_pdf</source>
+        <translation>打开PDF文件</translation>
+    </message>
+	<message>
+        <source>tip_open_word</source>
+        <translation>打开Word文件</translation>
+    </message>
+	<message>
+        <source>tip_open_excel</source>
+        <translation>打开Excel文件</translation>
+    </message>
+	<message>
+        <source>tip_open_ppt</source>
+        <translation>打开PPT文件</translation>
+    </message>
+	<message>
+        <source>tip_open_folder</source>
+        <translation>打开文件夹</translation>
+    </message>
+	<message>
+        <source>tip_delete_file</source>
+        <translation>取消</translation>
+    </message>
+	
+	<message>
+        <source>range_all</source>
+        <translation>全部</translation>
+    </message>
+
+    <message>
+        <source>status_init</source>
+        <translation>未转换</translation>
+    </message>
+    
+    <message>
+        <source>status_succ</source>
+        <translation>转换成功</translation>
+    </message>
+    
+    <message>
+        <source>status_fail</source>
+        <translation>转换失败</translation>
+    </message>
+	
+	<message>
+        <source>tip_convert_running</source>
+        <translation>文件正在转换中，请稍后再试！</translation>
+    </message>
+	
+	<message>
+        <source>title_exit</source>
+        <translation>提示</translation>
+    </message>
+	<message>
+        <source>tip_exit_running</source>
+        <translation>文件正在转换中，确认要退出吗？</translation>
+    </message>
+	
+	<message>
+        <source>title_msg_yes</source>
+        <translation>确认</translation>
+    </message>
+	<message>
+        <source>title_msg_no</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>ThemeWindow</name>
+	<message>
+        <source>title_this_window</source>
+        <translation>主题</translation>
+    </message>
+	
+	<message>
+        <source>info_default_theme</source>
+        <translation>默认主题</translation>
+    </message>
+</context>
+<context>
+    <name>FeedbackWindow</name>
+	<message>
+        <source>title_this_window</source>
+        <translation>反馈</translation>
+    </message>
+	
+	<message>
+        <source>info_qq</source>
+        <translation>QQ群: 906772910</translation>
+    </message>
+	<message>
+        <source>info_email</source>
+        <translation>Email: iounce@foxmail.com</translation>
+    </message>
+	
+	<message>
+        <source>tip_copy_data</source>
+        <translation>点击复制</translation>
+    </message>
+</context>
+<context>
+    <name>AboutWindow</name>
+	<message>
+        <source>title_this_window</source>
+        <translation>关于</translation>
+    </message>
+	<message>
+        <source>title_this_app</source>
+        <translation>PySidePDF</translation>
+    </message>
+</context>
+<context>
+    <name>MessageWindow</name>
+	<message>
+        <source>title_this_window</source>
+        <translation>提示</translation>
+    </message>
+	<message>
+        <source>title_ok</source>
+        <translation>确定</translation>
+    </message>
+	<message>
+        <source>title_cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+</TS>
