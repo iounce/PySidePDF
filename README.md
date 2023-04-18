@@ -1,8 +1,8 @@
 # PySidePDF
 
-A desktop application of converting Word into PDF using PySide6. The UI is based on PySideFrameless and the converter is based on pdf2docx.
+A desktop application of converting PDF into Word using PySide6. The UI is based on PySideFrameless and the converter is based on pdf2docx.
 
-这是一个使用PySide6开发的用于转换Word文档为PDF文档的桌面程序。其中，界面基于开源库PySideFrameless，转换器基于开源库pdf2docx。
+这是一个使用PySide6开发的用于转换PDF文档为Word文档的桌面程序。其中，界面基于开源库PySideFrameless，转换器基于开源库pdf2docx。
 
 <br/>
 
